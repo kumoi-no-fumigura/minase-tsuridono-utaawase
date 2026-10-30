@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/minase-tsuridono-utaawase",
  "yomi": "みなせつりどのとうざろくしゅうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "建仁2年（1202）",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院の水無瀬殿の釣殿で、その場で題を出して六首ずつ詠ませた当座の歌合。公経・通具・定家・家長・秀能・親定らの歌が残るが、本文は一部が欠ける。"
+ },
  "editions": [
   {
    "pid": "1879502",
